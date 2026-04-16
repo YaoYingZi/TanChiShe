@@ -1,1 +1,1 @@
-**arrowhead controls direction not wasd tx**
+**<span style="color:red">*Arrowheads*</span> controls directions not *WASD* tx**
